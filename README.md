@@ -29,3 +29,4 @@ Para modificar a maneira na qual o programa VSCode realiza o processo de compila
 * [https://docs.python.org/3/tutorial/index.html](https://docs.python.org/3/tutorial/index.html) - Tutorial da Linguagem Python [EN/PT]
 * [https://docs.python.org/3/index.html](https://docs.python.org/3/index.html) - Guia de referencia da Linguagem Python [EN/PT]
 * [https://www.w3schools.com/python/](https://www.w3schools.com/python/) - Guia da W3Schools de Python [EN]
+* [Intro à Programação em Python](https://www.youtube.com/watch?v=5x_IveLQ-UE&list=PLtwdb83BFgnIeG9aPlfMhNUYIFSZ_GBYz) - Playlist produzida pelo Prof. Dennis Giovani do INF UFRGS [PT]
