@@ -4,6 +4,14 @@
 
 Pasta para códigos e exemplos da linguagem de programação Python. Dentro dela, você encontrará subpastas chamadas: *codigos*, a qual deve ser manualmente criada, na qual você deverá armazenar seus códigos; *exemplos*, onde estão disponíveis diversos exemplos de como funciona a linguagem, os quais também podem ser utilizado para testar se os métodos de criação de arquivos executáveis está funcionando; *.vscode*, na qual está armazenado os arquivos que o programa Visual Studio Code utiliza para configurar o projeto corretamente.
 
+## Instalação
+
+1. Verifique se o Python está instalado em sua máquina com o comando `python --version` no terminal. Caso esteja, já está tudo pronto! Caso contrario, prossiga para o proximo passo;
+2. Baixe-o em [https://www.python.org/downloads/](https://www.python.org/downloads/) ou instale-o via gerenciador de pacotes da sua distribuição Linux;
+3. Adicione o Python ao PATH do seu sistema operacional, para que o terminal possa reconhecer o comando `python` e `pip`;
+4. Instale as extensões recomendadas para Python no Visual Studio Code, caso esteja utilizando-o;
+5. Pronto! Agora você pode utilizar o Python em seu terminal e no Visual Studio Code.
+
 ## Como usar
 
 Caso esteja utilizando a IDE chamada Visual Studio Code, simplesmente abra esta pasta chamada ***Python*** no programa e comece a programar! Quando necessitar compilar e testar seu programa, na parte esquerda, vá na aba de *Run and Debug* (acessível também pela combinação Ctrl+Shift+D) e selecione o tipo de tarefa que quer executar¹ e clique no botão verde. Nas vezes subsequentes, basta estar com o arquivo aberto e apertar *F5* que a tarefa deve executar automaticamente.
@@ -22,7 +30,6 @@ Para modificar a maneira na qual o programa VSCode realiza o processo de compila
 * *extensions.json:* armazena as extensões recomendadas;
 * *settings.json:* armazena configurações especificas para esta pasta;
 * *launch.json:* armazena o os processos que devem ser executados na aba de *Run and Debug*, para executar o processo de depuração com argumentos de linha de comando, basta adiciona-los ao item `"args"` do arquivo;
-* *tasks.json:* armazena os processos de pré-depuração, normalmente executa a compilação dos arquivos para serem executados.
 
 ## Links de referencia
 
